@@ -41,6 +41,8 @@ google-services.json
 
 # 内容管线产物(大文件,由脚本重新生成)
 content-pipeline/output/
+.venv/
+__pycache__/
 
 # 本地编排状态
 .omc/
