@@ -1,0 +1,1060 @@
+---
+id: tang-luobinwang-yonge
+title: 咏鹅
+author: 骆宾王
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [鹅, 鹅, 鹅]
+    punct: ","
+  - chars: [曲, 项, 向, 天, 歌]
+    punct: "。"
+  - chars: [白, 毛, 浮, 绿, 水]
+    punct: ","
+  - chars: [红, 掌, 拨, 清, 波]
+    punct: "。"
+translation: 大白鹅呀大白鹅,弯着脖子朝着天空唱歌。洁白的羽毛浮在碧绿的水面上,红红的脚掌拨动着清清的水波。
+background: 传说骆宾王七岁那年,家里来了一位客人。客人指着池塘里的白鹅,想考考这个小神童。骆宾王望着水中游来游去的白鹅,张嘴就吟出了这首诗,客人们都惊呆了。
+keywords:
+  - word: 曲项
+    explain: 弯着脖子
+  - word: 拨
+    explain: 划动
+---
+id: tang-libai-jingyesi
+title: 静夜思
+author: 李白
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [床, 前, 明, 月, 光]
+    punct: ","
+  - chars: [疑, 是, 地, 上, 霜]
+    punct: "。"
+  - chars: [举, 头, 望, 明, 月]
+    punct: ","
+  - chars: [低, 头, 思, 故, 乡]
+    punct: "。"
+translation: 床前洒满了明亮的月光,好像地上铺着一层白白的霜。抬起头看看天上的月亮,低下头就想起了远方的家乡。
+background: 李白离开家乡,一个人住在外地。一个安静的夜晚,他看见窗外的月光,想念家里的亲人,就写下了这首诗。
+keywords:
+  - word: 疑
+    explain: 好像
+  - word: 举头
+    explain: 抬起头
+  - word: 思
+    explain: 想念
+---
+id: tang-lishen-minnong-chuhe
+title: 悯农
+author: 李绅
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [锄, 禾, 日, 当, 午]
+    punct: ","
+  - chars: [汗, 滴, 禾, 下, 土]
+    punct: "。"
+  - chars: [谁, 知, 盘, 中, 餐]
+    punct: ","
+  - chars: [粒, 粒, 皆, 辛, 苦]
+    punct: "。"
+translation: 中午太阳最晒的时候,农民伯伯还在田里给禾苗锄草,汗水一滴滴落进泥土里。有谁知道碗里的饭,每一粒都是农民伯伯辛辛苦苦种出来的呢。
+background: 李绅看见农民顶着大太阳辛苦种田,心里很难过,就写下这首诗,让大家爱惜粮食。
+keywords:
+  - word: 锄禾
+    explain: 给禾苗锄草松土
+  - word: 日当午
+    explain: 中午太阳最晒的时候
+  - word: 皆
+    explain: 都
+---
+id: tang-menghaoran-chunxiao
+title: 春晓
+author: 孟浩然
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [春, 眠, 不, 觉, 晓]
+    punct: ","
+  - chars: [处, 处, 闻, 啼, 鸟]
+    punct: "。"
+  - chars: [夜, 来, 风, 雨, 声]
+    punct: ","
+  - chars: [花, 落, 知, 多, 少]
+    punct: "。"
+translation: 春天的早上睡得真香,天亮了都不知道。醒来听见到处都是小鸟的叫声。想起夜里好像有风雨的声音,不知道花儿被吹落了多少。
+background: 孟浩然住在山里的一个小屋子。春天的早晨,他听着鸟叫醒来,想起夜里的风雨,写下了这首诗。
+keywords:
+  - word: 晓
+    explain: 天亮
+  - word: 闻
+    explain: 听见
+  - word: 不觉晓
+    explain: 不知不觉天就亮了
+---
+id: tang-wangzhihuan-dengguanquelou
+title: 登鹳雀楼
+author: 王之涣
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [白, 日, 依, 山, 尽]
+    punct: ","
+  - chars: [黄, 河, 入, 海, 流]
+    punct: "。"
+  - chars: [欲, 穷, 千, 里, 目]
+    punct: ","
+  - chars: [更, 上, 一, 层, 楼]
+    punct: "。"
+translation: 太阳靠着山头慢慢落下去了,黄河水滚滚流向大海。想要看得更远,就要再上一层楼。
+background: 王之涣登上高高的鹳雀楼,看见太阳落山、黄河奔流,心里很激动,就写下了这首诗。
+keywords:
+  - word: 依
+    explain: 靠着
+  - word: 尽
+    explain: 消失、没有了
+  - word: 欲
+    explain: 想要
+---
+id: tang-wangwei-hua
+title: 画
+author: 王维
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [远, 看, 山, 有, 色]
+    punct: ","
+  - chars: [近, 听, 水, 无, 声]
+    punct: "。"
+  - chars: [春, 去, 花, 还, 在]
+    punct: ","
+  - chars: [人, 来, 鸟, 不, 惊]
+    punct: "。"
+translation: 远远看去,画上的山有青青的颜色。走近了听,画里的水却没有声音。春天过去了,画上的花还开着。人走过来了,画上的小鸟也不害怕。
+background: 王维看着一幅美丽的画,一边看一边写,把画里安安静静的景色写得像真的一样。
+keywords:
+  - word: 色
+    explain: 颜色
+  - word: 惊
+    explain: 害怕、惊慌
+---
+id: tang-libai-gulangyuexing
+title: 古朗月行
+author: 李白
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [小, 时, 不, 识, 月]
+    punct: ","
+  - chars: [呼, 作, 白, 玉, 盘]
+    punct: "。"
+  - chars: [又, 疑, 瑶, 台, 镜]
+    punct: ","
+  - chars: [飞, 在, 青, 云, 端]
+    punct: "。"
+translation: 小时候不认识月亮,把它叫作白玉做的盘子。又以为它是瑶台上的镜子,飞在青青的云朵上面。
+background: 李白长大后想起小时候,他把圆圆的月亮当成白玉盘和镜子,觉得很有趣,就写下了这首诗。
+keywords:
+  - word: 呼作
+    explain: 叫作
+  - word: 疑
+    explain: 以为、好像
+  - word: 白玉盘
+    explain: 白玉做的盘子
+---
+id: tang-liqiao-feng
+title: 风
+author: 李峤
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [解, 落, 三, 秋, 叶]
+    punct: ","
+  - chars: [能, 开, 二, 月, 花]
+    punct: "。"
+  - chars: [过, 江, 千, 尺, 浪]
+    punct: ","
+  - chars: [入, 竹, 万, 竿, 斜]
+    punct: "。"
+translation: 风能吹落秋天金黄的树叶,能让二月的花儿开放。它吹过江面,掀起高高的浪。它吹进竹林,让竹子斜斜地摇晃。
+background: 李峤认真地看着风,发现风虽然看不见,却能让很多东西动起来,就写下了这首诗。
+keywords:
+  - word: 解落
+    explain: 吹落、吹掉
+  - word: 三秋
+    explain: 秋天
+  - word: 斜
+    explain: 歪斜
+---
+id: song-shaoyong-shancunyonghuai
+title: 山村咏怀
+author: 邵雍
+dynasty: 宋
+category: 宋诗
+difficulty: qimeng
+lines:
+  - chars: [一, 去, 二, 三, 里]
+    punct: ","
+  - chars: [烟, 村, 四, 五, 家]
+    punct: "。"
+  - chars: [亭, 台, 六, 七, 座]
+    punct: ","
+  - chars: [八, 九, 十, 枝, 花]
+    punct: "。"
+translation: 一口气走了二三里路,看见冒着炊烟的村子里住着四五户人家。路边有六七座小亭子,还开着八九十枝花。
+background: 邵雍在山村的小路上散步,一边走一边数着看到的景色,写出了这首用数字排成的小诗。
+keywords:
+  - word: 去
+    explain: 距离,走了
+  - word: 烟村
+    explain: 冒着炊烟的村子
+  - word: 亭台
+    explain: 路边供人休息的小亭子
+---
+id: tang-wangwei-xiangsi
+title: 相思
+author: 王维
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [红, 豆, 生, 南, 国]
+    punct: ","
+  - chars: [春, 来, 发, 几, 枝]
+    punct: "。"
+  - chars: [愿, 君, 多, 采, 撷]
+    punct: ","
+  - chars: [此, 物, 最, 相, 思]
+    punct: "。"
+translation: 红豆生长在南方,春天来了会长出几根新枝。希望你多采一些,因为它最能表达想念别人的心意。
+background: 王维想念远方的朋友,就借着南方的红豆写下这首诗,把想念的心情送给朋友。
+keywords:
+  - word: 红豆
+    explain: 又叫相思豆,常用来表达想念
+  - word: 采撷
+    explain: 采摘
+  - word: 相思
+    explain: 想念别人
+---
+id: tang-mengjiao-youziyin
+title: 游子吟
+author: 孟郊
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [慈, 母, 手, 中, 线]
+    punct: ","
+  - chars: [游, 子, 身, 上, 衣]
+    punct: "。"
+  - chars: [临, 行, 密, 密, 缝]
+    punct: ","
+  - chars: [意, 恐, 迟, 迟, 归]
+    punct: "。"
+  - chars: [谁, 言, 寸, 草, 心]
+    punct: ","
+  - chars: [报, 得, 三, 春, 晖]
+    punct: "。"
+translation: 慈爱的妈妈手里拿着针线,给要出远门的孩子做衣裳。孩子快要出发了,她一针一针缝得密密的,担心孩子回来得太晚。小草一样的孩子,怎么报答得了太阳一样温暖的母爱呢。
+background: 孟郊要出远门了,妈妈在灯下为他缝衣服。他想起妈妈的爱,心里很感动,就写下了这首诗。
+keywords:
+  - word: 游子
+    explain: 离家远行的人
+  - word: 临行
+    explain: 快要出发的时候
+  - word: 寸草心
+    explain: 小草的心,比喻孩子小小的心意
+  - word: 三春晖
+    explain: 春天温暖的阳光,比喻妈妈的爱
+---
+id: tang-liuzongyuan-jiangxue
+title: 江雪
+author: 柳宗元
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [千, 山, 鸟, 飞, 绝]
+    punct: ","
+  - chars: [万, 径, 人, 踪, 灭]
+    punct: "。"
+  - chars: [孤, 舟, 蓑, 笠, 翁]
+    punct: ","
+  - chars: [独, 钓, 寒, 江, 雪]
+    punct: "。"
+translation: 所有的山上都看不见飞鸟了,所有的小路上也看不到人的脚印。只有一只小船,船上一位披着蓑衣、戴着斗笠的老爷爷,独自在下着雪的江面上钓鱼。
+background: 柳宗元被派到很远的地方做官,心里很孤单。他借着大雪里独自钓鱼的老爷爷,写出了这首诗。
+keywords:
+  - word: 绝
+    explain: 没有了
+  - word: 径
+    explain: 小路
+  - word: 蓑笠
+    explain: 蓑衣和斗笠,挡雨雪的用具
+---
+id: tang-wangwei-luzhai
+title: 鹿柴
+author: 王维
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [空, 山, 不, 见, 人]
+    punct: ","
+  - chars: [但, 闻, 人, 语, 响]
+    punct: "。"
+  - chars: [返, 景, 入, 深, 林]
+    punct: ","
+  - chars: [复, 照, 青, 苔, 上]
+    punct: "。"
+translation: 空荡荡的山里看不见人,只听见有人说话的声音。夕阳的余光射进深深的树林,又照在青苔上面。
+background: 王维住在山里的辋川别业。傍晚他走进安静的树林,感受着山里的幽静,写下了这首诗。
+keywords:
+  - word: 但
+    explain: 只
+  - word: 闻
+    explain: 听见
+  - word: 返景
+    explain: 夕阳返照的光
+  - word: 复
+    explain: 又
+---
+id: tang-baijuyi-chishang
+title: 池上
+author: 白居易
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [小, 娃, 撑, 小, 艇]
+    punct: ","
+  - chars: [偷, 采, 白, 莲, 回]
+    punct: "。"
+  - chars: [不, 解, 藏, 踪, 迹]
+    punct: ","
+  - chars: [浮, 萍, 一, 道, 开]
+    punct: "。"
+translation: 一个小娃娃撑着小船,偷偷去采白莲蓬。他忘了藏好自己的身影,小船开过,水面上的浮萍留下一道长长的痕迹。
+background: 白居易在池塘边散步,看见一个小娃娃偷偷采莲蓬,觉得很有趣,就写下了这首诗。
+keywords:
+  - word: 撑
+    explain: 用竹竿撑着船
+  - word: 艇
+    explain: 小船
+  - word: 不解
+    explain: 不知道、忘了
+  - word: 浮萍
+    explain: 浮在水面上的绿色水草
+---
+id: song-yangwanli-xiaochi
+title: 小池
+author: 杨万里
+dynasty: 宋
+category: 宋诗
+difficulty: qimeng
+lines:
+  - chars: [泉, 眼, 无, 声, 惜, 细, 流]
+    punct: ","
+  - chars: [树, 阴, 照, 水, 爱, 晴, 柔]
+    punct: "。"
+  - chars: [小, 荷, 才, 露, 尖, 尖, 角]
+    punct: ","
+  - chars: [早, 有, 蜻, 蜓, 立, 上, 头]
+    punct: "。"
+translation: 泉眼静静地流出细细的水,好像舍不得流走。树荫照在水面上,好像喜欢晴天里柔和的风光。小小的荷叶才露出尖尖的角,早有蜻蜓落在上面了。
+background: 杨万里在夏天路过一个小池塘,看见尖尖的小荷叶上停着一只蜻蜓,觉得特别可爱,就写下了这首诗。
+keywords:
+  - word: 泉眼
+    explain: 泉水流出来的地方
+  - word: 惜
+    explain: 爱惜、舍不得
+  - word: 晴柔
+    explain: 晴天里柔和的风光
+---
+id: qing-yuanmei-suojian
+title: 所见
+author: 袁枚
+dynasty: 清
+category: 清诗
+difficulty: qimeng
+lines:
+  - chars: [牧, 童, 骑, 黄, 牛]
+    punct: ","
+  - chars: [歌, 声, 振, 林, 樾]
+    punct: "。"
+  - chars: [意, 欲, 捕, 鸣, 蝉]
+    punct: ","
+  - chars: [忽, 然, 闭, 口, 立]
+    punct: "。"
+translation: 小牧童骑在黄牛背上,唱着歌,歌声穿过树林。他忽然想捉树上的蝉,马上闭上嘴,静静地站住不动了。
+background: 袁枚在路上看见一个放牛的小娃娃想捉蝉的样子,觉得非常好玩,就把这一幕写成了诗。
+keywords:
+  - word: 牧童
+    explain: 放牛的孩子
+  - word: 林樾
+    explain: 树林
+  - word: 意欲
+    explain: 想要
+  - word: 闭口立
+    explain: 闭上嘴站着不动
+---
+id: qing-gaoding-cunju
+title: 村居
+author: 高鼎
+dynasty: 清
+category: 清诗
+difficulty: qimeng
+lines:
+  - chars: [草, 长, 莺, 飞, 二, 月, 天]
+    punct: ","
+  - chars: [拂, 堤, 杨, 柳, 醉, 春, 烟]
+    punct: "。"
+  - chars: [儿, 童, 散, 学, 归, 来, 早]
+    punct: ","
+  - chars: [忙, 趁, 东, 风, 放, 纸, 鸢]
+    punct: "。"
+translation: 二月里,小草生长,黄莺飞来飞去,杨柳轻轻拂着河堤,好像醉在春天的风里。孩子们放学回来得早,赶紧趁着东风放起了风筝。
+background: 高鼎住在乡村,春天里看见孩子们放学后放风筝,心里很高兴,就写下了这首诗。
+keywords:
+  - word: 草长莺飞
+    explain: 春天草木生长、黄莺飞舞
+  - word: 拂堤
+    explain: 轻轻擦过河堤
+  - word: 纸鸢
+    explain: 风筝
+---
+id: tang-dufu-jueju-huangli
+title: 绝句
+author: 杜甫
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [两, 个, 黄, 鹂, 鸣, 翠, 柳]
+    punct: ","
+  - chars: [一, 行, 白, 鹭, 上, 青, 天]
+    punct: "。"
+  - chars: [窗, 含, 西, 岭, 千, 秋, 雪]
+    punct: ","
+  - chars: [门, 泊, 东, 吴, 万, 里, 船]
+    punct: "。"
+translation: 两只黄鹂在翠绿的柳树上唱歌,一行白鹭飞上蓝蓝的天空。从窗口望出去,西岭上积着终年不化的白雪。门前停着要开往东吴的万里船。
+background: 杜甫住在成都的草堂里。春天来了,他从窗口看见柳树上的黄鹂、天上的白鹭和远处的雪山,高兴地写下了这首诗。
+keywords:
+  - word: 黄鹂
+    explain: 黄莺鸟
+  - word: 白鹭
+    explain: 白色的水鸟
+  - word: 东吴
+    explain: 长江下游一带
+---
+id: tang-dufu-jueju-chiri
+title: 绝句
+author: 杜甫
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [迟, 日, 江, 山, 丽]
+    punct: ","
+  - chars: [春, 风, 花, 草, 香]
+    punct: "。"
+  - chars: [泥, 融, 飞, 燕, 子]
+    punct: ","
+  - chars: [沙, 暖, 睡, 鸳, 鸯]
+    punct: "。"
+translation: 春天白天变长,太阳暖暖的,山河非常美丽。春风轻轻吹过,花草散发着香味。泥土湿润松软,燕子飞来飞去。沙滩晒得暖暖的,鸳鸯睡在上面。
+background: 杜甫住在成都草堂。春天里,他看见燕子飞、鸳鸯睡,感受到春天的暖和,写下了这首诗。
+keywords:
+  - word: 迟日
+    explain: 春天的太阳,白天变长
+  - word: 泥融
+    explain: 泥土湿润松软
+  - word: 鸳鸯
+    explain: 成双成对的水鸟
+---
+id: tang-libai-zaofabaidicheng
+title: 早发白帝城
+author: 李白
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [朝, 辞, 白, 帝, 彩, 云, 间]
+    punct: ","
+  - chars: [千, 里, 江, 陵, 一, 日, 还]
+    punct: "。"
+  - chars: [两, 岸, 猿, 声, 啼, 不, 住]
+    punct: ","
+  - chars: [轻, 舟, 已, 过, 万, 重, 山]
+    punct: "。"
+translation: 清晨,我离开了彩云围绕的白帝城。千里之外的江陵,一天就到了。两岸的猿猴叫个不停,转眼间,轻快的小船已经驶过了一重又一重的高山。
+background: 李白被送到很远的地方去,走到白帝城时忽然接到好消息,可以回家了。他高兴地坐上小船顺江而下,写下了这首诗。
+keywords:
+  - word: 朝
+    explain: 早上
+  - word: 还
+    explain: 回到
+  - word: 万重山
+    explain: 一重又一重的高山
+---
+id: tang-libai-wanglushanpubu
+title: 望庐山瀑布
+author: 李白
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [日, 照, 香, 炉, 生, 紫, 烟]
+    punct: ","
+  - chars: [遥, 看, 瀑, 布, 挂, 前, 川]
+    punct: "。"
+  - chars: [飞, 流, 直, 下, 三, 千, 尺]
+    punct: ","
+  - chars: [疑, 是, 银, 河, 落, 九, 天]
+    punct: "。"
+translation: 太阳照着香炉峰,升起紫色的云雾。远远望去,瀑布像一条白布挂在山前。水流飞快地直冲下来,好像有三千尺那么长,让人以为是银河从天上落了下来。
+background: 李白到庐山游玩,看见瀑布从高高的山崖上冲下来,觉得又壮观又美丽,就写下了这首诗。
+keywords:
+  - word: 香炉
+    explain: 庐山上的香炉峰
+  - word: 遥看
+    explain: 远远地看
+  - word: 三千尺
+    explain: 形容非常长,是夸张的写法
+  - word: 九天
+    explain: 天的最高处
+---
+id: tang-hezhizhang-yongliu
+title: 咏柳
+author: 贺知章
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [碧, 玉, 妆, 成, 一, 树, 高]
+    punct: ","
+  - chars: [万, 条, 垂, 下, 绿, 丝, 绦]
+    punct: "。"
+  - chars: [不, 知, 细, 叶, 谁, 裁, 出]
+    punct: ","
+  - chars: [二, 月, 春, 风, 似, 剪, 刀]
+    punct: "。"
+translation: 柳树像用碧玉打扮过一样,又高又美。千万条柳枝垂下来,像绿色的丝带。不知道细细的柳叶是谁裁出来的,原来是二月的春风,它像一把剪刀。
+background: 贺知章在早春二月看见柳树长出新叶,绿得像碧玉一样,就写下了这首诗。
+keywords:
+  - word: 碧玉
+    explain: 碧绿色的玉
+  - word: 丝绦
+    explain: 用丝线编成的带子
+  - word: 裁
+    explain: 裁剪
+---
+id: tang-hezhizhang-huixiangoushu
+title: 回乡偶书
+author: 贺知章
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [少, 小, 离, 家, 老, 大, 回]
+    punct: ","
+  - chars: [乡, 音, 无, 改, 鬓, 毛, 衰]
+    punct: "。"
+  - chars: [儿, 童, 相, 见, 不, 相, 识]
+    punct: ","
+  - chars: [笑, 问, 客, 从, 何, 处, 来]
+    punct: "。"
+translation: 我小时候离开家乡,老了才回来。家乡话没有变,头发却白了。家乡的孩子们见了都不认识我,笑着问这位客人是从哪里来的。
+background: 贺知章年轻时就离开家乡,八十多岁才回到故乡。看到家乡的孩子都不认识自己,他笑着写下了这首诗。
+keywords:
+  - word: 少小
+    explain: 年轻的时候
+  - word: 乡音
+    explain: 家乡话
+  - word: 衰
+    explain: 变白、变稀疏
+  - word: 相识
+    explain: 认识
+---
+id: tang-libai-zengwanglun
+title: 赠汪伦
+author: 李白
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [李, 白, 乘, 舟, 将, 欲, 行]
+    punct: ","
+  - chars: [忽, 闻, 岸, 上, 踏, 歌, 声]
+    punct: "。"
+  - chars: [桃, 花, 潭, 水, 深, 千, 尺]
+    punct: ","
+  - chars: [不, 及, 汪, 伦, 送, 我, 情]
+    punct: "。"
+translation: 我坐上小船正要出发,忽然听见岸上传来送别的歌声。桃花潭的水即使有一千尺深,也比不上汪伦送我的情意深。
+background: 李白要坐船离开的时候,好朋友汪伦赶来送行。李白很感动,写下了这首诗送给汪伦。
+keywords:
+  - word: 将欲行
+    explain: 正要出发
+  - word: 踏歌
+    explain: 用脚打着拍子唱歌
+  - word: 不及
+    explain: 比不上
+---
+id: tang-libai-huanghelousongmenghaoran
+title: 黄鹤楼送孟浩然之广陵
+author: 李白
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [故, 人, 西, 辞, 黄, 鹤, 楼]
+    punct: ","
+  - chars: [烟, 花, 三, 月, 下, 扬, 州]
+    punct: "。"
+  - chars: [孤, 帆, 远, 影, 碧, 空, 尽]
+    punct: ","
+  - chars: [唯, 见, 长, 江, 天, 际, 流]
+    punct: "。"
+translation: 老朋友在黄鹤楼和我告别,在柳絮如烟、繁花似锦的三月坐船去扬州。孤单的白帆越走越远,消失在碧蓝的天空里。只看见滚滚长江水流向天边。
+background: 李白在黄鹤楼送好朋友孟浩然去扬州。看着朋友的船越走越远,他写下了这首诗。
+keywords:
+  - word: 故人
+    explain: 老朋友
+  - word: 西辞
+    explain: 向西告别
+  - word: 烟花
+    explain: 形容春天的景色美如烟雾繁花
+  - word: 孤帆
+    explain: 孤单的船帆
+---
+id: tang-libai-wangtianmenshan
+title: 望天门山
+author: 李白
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [天, 门, 中, 断, 楚, 江, 开]
+    punct: ","
+  - chars: [碧, 水, 东, 流, 至, 此, 回]
+    punct: "。"
+  - chars: [两, 岸, 青, 山, 相, 对, 出]
+    punct: ","
+  - chars: [孤, 帆, 一, 片, 日, 边, 来]
+    punct: "。"
+translation: 天门山被长江从中间劈开,碧绿的江水向东流到这里,又打着旋儿回旋。两岸的青山面对面地排列着,一只小船从太阳边上驶来。
+background: 李白坐船经过天门山,看见两岸高山夹着江水,景色十分雄伟,就写下了这首诗。
+keywords:
+  - word: 中断
+    explain: 从中间断开
+  - word: 楚江
+    explain: 长江流经这里的一段
+  - word: 至此回
+    explain: 流到这里打旋回旋
+  - word: 相对出
+    explain: 面对面地出现
+---
+id: tang-libai-yeshushansi
+title: 夜宿山寺
+author: 李白
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [危, 楼, 高, 百, 尺]
+    punct: ","
+  - chars: [手, 可, 摘, 星, 辰]
+    punct: "。"
+  - chars: [不, 敢, 高, 声, 语]
+    punct: ","
+  - chars: [恐, 惊, 天, 上, 人]
+    punct: "。"
+translation: 山上的高楼真高啊,好像有一百尺。站在楼上,伸手就能摘到天上的星星。在这里我不敢大声说话,怕惊动了天上的神仙。
+background: 李白夜里住在山上的寺庙里,觉得楼特别高,好像一伸手就能碰到星星,就写下了这首诗。
+keywords:
+  - word: 危楼
+    explain: 很高的楼
+  - word: 百尺
+    explain: 形容很高
+  - word: 语
+    explain: 说话
+  - word: 恐
+    explain: 害怕
+---
+id: tang-hulingneng-xiaoerchuidao
+title: 小儿垂钓
+author: 胡令能
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [蓬, 头, 稚, 子, 学, 垂, 纶]
+    punct: ","
+  - chars: [侧, 坐, 莓, 苔, 草, 映, 身]
+    punct: "。"
+  - chars: [路, 人, 借, 问, 遥, 招, 手]
+    punct: ","
+  - chars: [怕, 得, 鱼, 惊, 不, 应, 人]
+    punct: "。"
+translation: 一个头发乱蓬蓬的小孩子学着钓鱼。他侧身坐在长满青苔的石头上,野草遮住了他的身子。有过路人问路,他远远地摆摆手,怕惊跑了鱼儿,不敢回答。
+background: 胡令能看见一个小孩钓鱼时认真的样子,觉得特别可爱,就把这个情景写成了诗。
+keywords:
+  - word: 稚子
+    explain: 小孩子
+  - word: 垂纶
+    explain: 钓鱼
+  - word: 莓苔
+    explain: 青苔
+  - word: 不应人
+    explain: 不回答别人
+---
+id: tang-dumu-qingming
+title: 清明
+author: 杜牧
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [清, 明, 时, 节, 雨, 纷, 纷]
+    punct: ","
+  - chars: [路, 上, 行, 人, 欲, 断, 魂]
+    punct: "。"
+  - chars: [借, 问, 酒, 家, 何, 处, 有]
+    punct: ","
+  - chars: [牧, 童, 遥, 指, 杏, 花, 村]
+    punct: "。"
+translation: 清明时节,细雨纷纷地下着。路上的行人心里很难过,像丢了魂一样。我问一声哪里有酒家,小牧童远远地指了指杏花深处的村庄。
+background: 杜牧在清明时节赶路,天上下着小雨,路上的人都闷闷不乐,他有感而发写下了这首诗。
+keywords:
+  - word: 清明
+    explain: 清明节,扫墓的日子
+  - word: 纷纷
+    explain: 又多又密
+  - word: 欲断魂
+    explain: 形容非常伤心
+  - word: 借问
+    explain: 请问
+---
+id: tang-dumu-shanxing
+title: 山行
+author: 杜牧
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [远, 上, 寒, 山, 石, 径, 斜]
+    punct: ","
+  - chars: [白, 云, 生, 处, 有, 人, 家]
+    punct: "。"
+  - chars: [停, 车, 坐, 爱, 枫, 林, 晚]
+    punct: ","
+  - chars: [霜, 叶, 红, 于, 二, 月, 花]
+    punct: "。"
+translation: 石头小路弯弯曲曲地伸向深秋的高山,在白云飘浮的地方居然有人家。我停下车来,是因为喜爱这傍晚的枫林。被霜打过的枫叶,比二月的春花还要红。
+background: 杜牧坐着车上山,秋天的傍晚看见红红的枫叶,比春天的花还好看,就写下了这首诗。
+keywords:
+  - word: 寒山
+    explain: 深秋的山
+  - word: 径
+    explain: 小路
+  - word: 生处
+    explain: 白云飘浮的地方
+  - word: 坐
+    explain: 因为
+---
+id: tang-jiadao-xunyinzhebuyu
+title: 寻隐者不遇
+author: 贾岛
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [松, 下, 问, 童, 子]
+    punct: ","
+  - chars: [言, 师, 采, 药, 去]
+    punct: "。"
+  - chars: [只, 在, 此, 山, 中]
+    punct: ","
+  - chars: [云, 深, 不, 知, 处]
+    punct: "。"
+translation: 我在松树下问隐士的小徒弟,他说师傅采药去了。师傅就在这座山里,可是山里云雾深深,不知道他在什么地方。
+background: 贾岛去山中拜访一位隐士,没有见到人,只有小徒弟在家,他就把这次拜访写成了诗。
+keywords:
+  - word: 隐者
+    explain: 隐居在山里的人
+  - word: 童子
+    explain: 小徒弟
+  - word: 只
+    explain: 就
+  - word: 不知处
+    explain: 不知道在哪儿
+---
+id: tang-zhangji-fengqiaoyebo
+title: 枫桥夜泊
+author: 张继
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [月, 落, 乌, 啼, 霜, 满, 天]
+    punct: ","
+  - chars: [江, 枫, 渔, 火, 对, 愁, 眠]
+    punct: "。"
+  - chars: [姑, 苏, 城, 外, 寒, 山, 寺]
+    punct: ","
+  - chars: [夜, 半, 钟, 声, 到, 客, 船]
+    punct: "。"
+translation: 月亮落下去了,乌鸦在叫,秋霜满天。江边的枫树和渔船上的灯火陪着我,怎么也睡不着。姑苏城外的寒山寺里,半夜的钟声传到了我的船上。
+background: 张继坐船路过枫桥,夜里睡不着,听见寒山寺的钟声,写下了这首诗。
+keywords:
+  - word: 夜泊
+    explain: 夜里把船停在岸边
+  - word: 霜满天
+    explain: 形容霜重、天冷
+  - word: 愁眠
+    explain: 心里发愁,睡不着
+  - word: 姑苏
+    explain: 苏州
+---
+id: tang-wangchangling-chusai
+title: 出塞
+author: 王昌龄
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [秦, 时, 明, 月, 汉, 时, 关]
+    punct: ","
+  - chars: [万, 里, 长, 征, 人, 未, 还]
+    punct: "。"
+  - chars: [但, 使, 龙, 城, 飞, 将, 在]
+    punct: ","
+  - chars: [不, 教, 胡, 马, 度, 阴, 山]
+    punct: "。"
+translation: 秦朝时候的明月,汉朝时候的边关,到今天还没有变。万里远征的战士,还没有回到家乡。只要还有像李广那样的大将军守住边关,就不会让敌人的战马越过阴山。
+background: 王昌龄看到边关常常打仗,战士们多年不能回家。他希望有能干的将军保卫国家,就写下了这首诗。
+keywords:
+  - word: 关
+    explain: 边关
+  - word: 未还
+    explain: 没有回来
+  - word: 但使
+    explain: 只要
+  - word: 教
+    explain: 让
+---
+id: tang-wanghan-liangzhouci
+title: 凉州词
+author: 王翰
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [葡, 萄, 美, 酒, 夜, 光, 杯]
+    punct: ","
+  - chars: [欲, 饮, 琵, 琶, 马, 上, 催]
+    punct: "。"
+  - chars: [醉, 卧, 沙, 场, 君, 莫, 笑]
+    punct: ","
+  - chars: [古, 来, 征, 战, 几, 人, 回]
+    punct: "。"
+translation: 葡萄美酒盛满了精美的夜光杯,正要喝的时候,马上传来琵琶的声音,催人上马出发。就算醉倒在战场上,你也不要笑。自古以来出征打仗的人,有几个能回来呢。
+background: 王翰在边关看见战士们打仗前喝酒壮行,心里又豪迈又难过,写下了这首诗。
+keywords:
+  - word: 夜光杯
+    explain: 夜里会发光的酒杯
+  - word: 催
+    explain: 催促
+  - word: 沙场
+    explain: 战场
+  - word: 几人回
+    explain: 有几个人能回来
+---
+id: tang-wangwei-jiuyuejiuri
+title: 九月九日忆山东兄弟
+author: 王维
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [独, 在, 异, 乡, 为, 异, 客]
+    punct: ","
+  - chars: [每, 逢, 佳, 节, 倍, 思, 亲]
+    punct: "。"
+  - chars: [遥, 知, 兄, 弟, 登, 高, 处]
+    punct: ","
+  - chars: [遍, 插, 茱, 萸, 少, 一, 人]
+    punct: "。"
+translation: 我独自一个人在他乡做客,每到过节的时候就加倍想念亲人。我知道兄弟们重阳节登高的时候,插茱萸一定会发现少了我一个人。
+background: 重阳节到了,王维一个人在外地,很想念家乡的兄弟,就写下了这首诗。
+keywords:
+  - word: 异乡
+    explain: 外乡、他乡
+  - word: 佳节
+    explain: 美好的节日
+  - word: 倍
+    explain: 更加
+  - word: 茱萸
+    explain: 重阳节插戴的一种植物
+---
+id: tang-wangwei-songyuanershi-anxi
+title: 送元二使安西
+author: 王维
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [渭, 城, 朝, 雨, 浥, 轻, 尘]
+    punct: ","
+  - chars: [客, 舍, 青, 青, 柳, 色, 新]
+    punct: "。"
+  - chars: [劝, 君, 更, 尽, 一, 杯, 酒]
+    punct: ","
+  - chars: [西, 出, 阳, 关, 无, 故, 人]
+    punct: "。"
+translation: 渭城清晨的一场小雨,湿润了地上的浮尘。旅舍旁的柳树,被雨洗得青青的。朋友啊,请你再干一杯酒吧。出了阳关,就再也见不到老朋友了。
+background: 王维送朋友元二去安西。在渭城的小雨里,他为朋友倒酒送别,写下了这首诗。
+keywords:
+  - word: 浥
+    explain: 湿润
+  - word: 客舍
+    explain: 旅舍
+  - word: 更尽
+    explain: 再喝完
+  - word: 故人
+    explain: 老朋友
+---
+id: tang-wangchangling-furonglousongxinjian
+title: 芙蓉楼送辛渐
+author: 王昌龄
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [寒, 雨, 连, 江, 夜, 入, 吴]
+    punct: ","
+  - chars: [平, 明, 送, 客, 楚, 山, 孤]
+    punct: "。"
+  - chars: [洛, 阳, 亲, 友, 如, 相, 问]
+    punct: ","
+  - chars: [一, 片, 冰, 心, 在, 玉, 壶]
+    punct: "。"
+translation: 寒冷的雨连着江水,夜里一直下到吴地。天亮时送走朋友,只剩下孤零零的楚山。洛阳的亲友如果问起我,请告诉他们,我的心像玉壶里的冰一样干净洁白。
+background: 王昌龄在芙蓉楼送好朋友辛渐。他请朋友带话给洛阳的亲友,说自己做人清清白白。
+keywords:
+  - word: 平明
+    explain: 天亮的时候
+  - word: 孤
+    explain: 孤单
+  - word: 冰心
+    explain: 像冰一样纯洁干净的心
+  - word: 玉壶
+    explain: 玉做的壶
+---
+id: tang-gaoshi-biedongda
+title: 别董大
+author: 高适
+dynasty: 唐
+category: 唐诗
+difficulty: qimeng
+lines:
+  - chars: [千, 里, 黄, 云, 白, 日, 曛]
+    punct: ","
+  - chars: [北, 风, 吹, 雁, 雪, 纷, 纷]
+    punct: "。"
+  - chars: [莫, 愁, 前, 路, 无, 知, 己]
+    punct: ","
+  - chars: [天, 下, 谁, 人, 不, 识, 君]
+    punct: "。"
+translation: 千里黄云遮住了太阳,天色昏黄。北风吹着大雁,雪花纷纷飘落。你不要发愁前面没有知心的朋友,天下有谁不认识你呢。
+background: 高适和好朋友董大分别的时候,天上下着大雪。他安慰朋友不要难过,写下了这首诗。
+keywords:
+  - word: 曛
+    explain: 昏暗
+  - word: 知己
+    explain: 知心的朋友
+  - word: 谁人
+    explain: 哪个人
+  - word: 君
+    explain: 你
+---
+id: han-yuefu-jiangnan
+title: 江南
+author: 汉乐府
+dynasty: 汉
+category: 汉乐府
+difficulty: qimeng
+lines:
+  - chars: [江, 南, 可, 采, 莲]
+    punct: ","
+  - chars: [莲, 叶, 何, 田, 田]
+    punct: "。"
+  - chars: [鱼, 戏, 莲, 叶, 间]
+    punct: "。"
+  - chars: [鱼, 戏, 莲, 叶, 东]
+    punct: ","
+  - chars: [鱼, 戏, 莲, 叶, 西]
+    punct: ","
+  - chars: [鱼, 戏, 莲, 叶, 南]
+    punct: ","
+  - chars: [鱼, 戏, 莲, 叶, 北]
+    punct: "。"
+translation: 江南可以采莲蓬,莲叶长得多茂盛啊。鱼儿在莲叶间游来游去。鱼儿在莲叶东边玩耍,鱼儿在莲叶西边玩耍,鱼儿在莲叶南边玩耍,鱼儿在莲叶北边玩耍。
+background: 这是汉朝的一首民歌,人们唱着它,歌唱江南采莲的快乐。
+keywords:
+  - word: 何
+    explain: 多么
+  - word: 田田
+    explain: 莲叶茂盛的样子
+  - word: 戏
+    explain: 玩耍
+---
+id: han-yuefu-changgexing
+title: 长歌行
+author: 汉乐府
+dynasty: 汉
+category: 汉乐府
+difficulty: qimeng
+lines:
+  - chars: [青, 青, 园, 中, 葵]
+    punct: ","
+  - chars: [朝, 露, 待, 日, 晞]
+    punct: "。"
+  - chars: [阳, 春, 布, 德, 泽]
+    punct: ","
+  - chars: [万, 物, 生, 光, 辉]
+    punct: "。"
+  - chars: [常, 恐, 秋, 节, 至]
+    punct: ","
+  - chars: [焜, 黄, 华, 叶, 衰]
+    punct: "。"
+  - chars: [百, 川, 东, 到, 海]
+    punct: ","
+  - chars: [何, 时, 复, 西, 归]
+    punct: "?"
+  - chars: [少, 壮, 不, 努, 力]
+    punct: ","
+  - chars: [老, 大, 徒, 伤, 悲]
+    punct: "。"
+translation: 园子里的葵菜青悠悠的,早晨的露水等着太阳来晒干。春天把恩泽洒向大地,万物都闪着光彩。常常担心秋天一到,花叶就要枯黄凋零。千百条河流向东流入大海,什么时候才能再向西流回来呢。年轻的时候不努力,老了就只能白白地伤心了。
+background: 这是汉朝的一首民歌。人们唱着小园子里的菜和东流的河水,提醒孩子们要趁着年纪小好好努力。
+keywords:
+  - word: 朝露
+    explain: 早晨的露水
+  - word: 晞
+    explain: 晒干
+  - word: 少壮
+    explain: 年轻力壮的时候
+  - word: 徒
+    explain: 白白地
