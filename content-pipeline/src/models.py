@@ -30,9 +30,8 @@ class Poem:
 
 DIFFICULTIES = {"qimeng", "jinjie", "bibei"}
 
-def parse_poem_yaml(text: str) -> Poem:
-    import yaml
-    d = yaml.safe_load(text)
+def parse_poem_dict(d: dict) -> Poem:
+    """把单个源文档(dict)构造为 Poem。"""
     missing = [k for k in ("id", "title", "author", "dynasty", "category",
                            "difficulty", "lines", "translation", "background")
                if k not in d]
@@ -50,3 +49,13 @@ def parse_poem_yaml(text: str) -> Poem:
                 keywords=kws,
                 audio=f"audio/{d['id']}.m4a", timing=f"timing/{d['id']}.json",
                 bibei=d.get("bibei", False))
+
+def parse_poem_yaml(text: str) -> Poem:
+    """解析单文档 YAML 为一首诗。"""
+    import yaml
+    return parse_poem_dict(yaml.safe_load(text))
+
+def parse_poems_yaml(text: str) -> list[Poem]:
+    """解析多文档 YAML(`---` 分隔,批次源数据格式)为多首诗。"""
+    import yaml
+    return [parse_poem_dict(d) for d in yaml.safe_load_all(text)]

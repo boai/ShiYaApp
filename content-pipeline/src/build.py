@@ -5,7 +5,7 @@ import json
 from dataclasses import asdict
 from pathlib import Path
 from pypinyin import pinyin as _py, Style
-from src.models import Poem, parse_poem_yaml
+from src.models import Poem, parse_poems_yaml
 from src.pinyin import fill_pinyin, load_overrides
 from src.validate import validate_poem
 from src.tts_macos import synthesize_sync
@@ -37,10 +37,10 @@ def run_pipeline(source: str | None = None) -> tuple[list[Poem], list[str]]:
     poems, errs = [], []
     files = sorted(Path(source or SOURCE_DIR).glob("*.yaml"))
     for f in files:
-        p = parse_poem_yaml(f.read_text(encoding="utf-8"))
-        fill_pinyin(p.lines, title=p.title, overrides=overrides)
-        poems.append(p)
-        errs += validate_poem(p)
+        for p in parse_poems_yaml(f.read_text(encoding="utf-8")):
+            fill_pinyin(p.lines, title=p.title, overrides=overrides)
+            poems.append(p)
+            errs += validate_poem(p)
     return poems, errs
 
 def generate_audio(poems: list[Poem], max_n: int | None = None) -> None:
