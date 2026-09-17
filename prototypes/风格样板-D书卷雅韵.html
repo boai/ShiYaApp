@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>D · 书卷雅韵样板</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #1b1f27; font-family: 'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif; padding: 30px 24px 80px; }
+  .style-title { color: #cfd6e4; font-size: 20px; font-weight: 600; margin: 10px 4px 4px; letter-spacing: 1px; }
+  .style-desc { color: #8b93a5; font-size: 13px; margin: 0 4px 20px; }
+  .screen { position: relative; width: min(1060px, 96vw); aspect-ratio: 16/9; border-radius: 14px; margin: 0 auto 30px; overflow: hidden; box-shadow: 0 18px 50px rgba(0,0,0,.55); }
+  .screen-label { width: min(1060px, 96vw); margin: 0 auto 8px; color: #97a0b3; font-size: 13px; }
+  .screen-label b { color: #e2e7f0; }
+  .kai { font-family: 'Kaiti SC','STKaiti','KaiTi','STKaiTi',serif; }
+  /* 檀木桌面 */
+  .desk { position:absolute; inset:0; background:
+    radial-gradient(ellipse 60% 45% at 50% 18%, rgba(255,200,130,.14), transparent),
+    linear-gradient(180deg, #54392a 0%, #46301f 55%, #33221400 100%),
+    #382718; }
+  .desk::before { content:''; position:absolute; inset:0; opacity:.5; background:
+    repeating-linear-gradient(92deg, rgba(0,0,0,.10) 0 2px, transparent 2px 46px),
+    repeating-linear-gradient(180deg, rgba(255,255,255,.02) 0 1px, transparent 1px 14px); }
+  /* 卷轴 */
+  .scroll-wrap { position:relative; display:flex; align-items:stretch; }
+  .rod { position:relative; width:30px; border-radius:15px; flex:none; margin:14px 0;
+    background: linear-gradient(90deg, #5a3a1e 0%, #8a5a2e 30%, #c99a5e 55%, #8a5a2e 78%, #4a2e14 100%);
+    box-shadow: 0 6px 16px rgba(0,0,0,.5); }
+  .rod::before, .rod::after { content:''; position:absolute; left:2px; right:2px; height:16px; border-radius:14px;
+    background: linear-gradient(90deg,#3a2412,#6b4423 45%,#4a2e14); box-shadow: inset 0 2px 4px rgba(255,255,255,.15); }
+  .rod::before { top:-6px; } .rod::after { bottom:-6px; }
+  .paper { flex:1; position:relative; background:
+    linear-gradient(180deg, rgba(120,90,40,.14), transparent 4% 96%, rgba(120,90,40,.14)),
+    repeating-linear-gradient(90deg, rgba(160,120,60,.025) 0 3px, transparent 3px 7px),
+    #f1e7c9; }
+  .paper::before { content:''; position:absolute; inset:0; background:
+    radial-gradient(ellipse 50% 60% at 50% 40%, rgba(255,250,225,.5), transparent 75%); }
+  .paper::after { content:''; position:absolute; left:0; right:0; top:0; height:10px;
+    background: linear-gradient(180deg, rgba(90,65,30,.25), transparent); }
+</style>
+</head>
+<body>
+
+<div class="style-title">D · 书卷雅韵(新)</div>
+<div class="style-desc">檀木书桌 · 古画手卷 · 木轴头 · 线装书讲解 — 每屏依次为「首页」「朗读页」</div>
+
+<!-- ① 首页 -->
+<div class="screen-label"><b>① 首页</b> — 手卷摊开在书桌上,焦点(选中)状态在「咏鹅」卡片上</div>
+<div class="screen">
+  <div class="desk"></div>
+  <div style="position:relative;height:100%;padding:26px 60px 20px;">
+    <div class="scroll-wrap" style="height:100%;">
+      <div class="rod"></div>
+      <div class="paper" style="padding:24px 40px 18px;display:flex;flex-direction:column;">
+        <div style="display:flex;align-items:center;gap:16px;">
+          <div style="width:44px;height:44px;background:#b03a2e;color:#f7efd8;font-family:'Kaiti SC','STKaiti',serif;font-size:24px;display:flex;align-items:center;justify-content:center;border-radius:4px;transform:rotate(2deg);box-shadow:0 3px 8px rgba(120,50,30,.4);">詩</div>
+          <div class="kai" style="font-size:30px;font-weight:700;color:#3a2c16;letter-spacing:4px;">诗芽</div>
+          <div class="kai" style="font-size:13px;color:#8a7448;letter-spacing:2px;">一卷在手 · 诗香满堂</div>
+          <div style="margin-left:auto;width:34px;height:34px;background:#b03a2e;color:#f7efd8;font-family:'Kaiti SC','STKaiti',serif;font-size:18px;display:flex;align-items:center;justify-content:center;border-radius:3px;transform:rotate(-3deg);">芽</div>
+        </div>
+        <div style="display:flex;gap:26px;margin-top:14px;padding:0 8px;">
+          <div class="kai" style="font-size:19px;color:#3a2c16;border-bottom:2px solid #b03a2e;padding-bottom:3px;font-weight:700;">按难度学</div>
+          <div class="kai" style="font-size:19px;color:#7c6a45;">按诗人学</div>
+          <div class="kai" style="font-size:19px;color:#7c6a45;">我的收藏</div>
+        </div>
+        <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:14px;">
+          <div style="background:linear-gradient(180deg,#fdf8e6,#f5ecd2);border:2px solid #b03a2e;border-radius:3px;padding:14px 10px;text-align:center;transform:scale(1.05);box-shadow:0 6px 16px rgba(90,60,20,.28);position:relative;">
+            <div style="position:absolute;top:-1px;right:8px;width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-top:7px solid #d9c8a0;"></div>
+            <div style="font-size:32px;">🦢</div>
+            <div class="kai" style="font-size:21px;font-weight:700;color:#3a2c16;margin-top:6px;">咏鹅</div>
+            <div class="kai" style="font-size:12px;color:#9a8452;margin-top:3px;">骆宾王 · 唐</div>
+            <div class="kai" style="font-size:11px;color:#b3a077;margin-top:5px;">鹅,鹅,鹅,曲项向天歌</div>
+          </div>
+          <div style="background:linear-gradient(180deg,#fdf8e6,#f5ecd2);border:1px solid #d9c8a0;border-radius:3px;padding:14px 10px;text-align:center;position:relative;">
+            <div style="position:absolute;top:-1px;right:8px;width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-top:7px solid #e5d7b5;"></div>
+            <div style="font-size:32px;">🌙</div>
+            <div class="kai" style="font-size:21px;font-weight:700;color:#3a2c16;margin-top:6px;">静夜思</div>
+            <div class="kai" style="font-size:12px;color:#9a8452;margin-top:3px;">李白 · 唐</div>
+            <div class="kai" style="font-size:11px;color:#b3a077;margin-top:5px;">床前明月光</div>
+          </div>
+          <div style="background:linear-gradient(180deg,#fdf8e6,#f5ecd2);border:1px solid #d9c8a0;border-radius:3px;padding:14px 10px;text-align:center;position:relative;">
+            <div style="position:absolute;top:-1px;right:8px;width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-top:7px solid #e5d7b5;"></div>
+            <div style="font-size:32px;">🌾</div>
+            <div class="kai" style="font-size:21px;font-weight:700;color:#3a2c16;margin-top:6px;">悯农</div>
+            <div class="kai" style="font-size:12px;color:#9a8452;margin-top:3px;">李绅 · 唐</div>
+            <div class="kai" style="font-size:11px;color:#b3a077;margin-top:5px;">锄禾日当午</div>
+          </div>
+          <div style="background:linear-gradient(180deg,#fdf8e6,#f5ecd2);border:1px solid #d9c8a0;border-radius:3px;padding:14px 10px;text-align:center;position:relative;">
+            <div style="position:absolute;top:-1px;right:8px;width:0;height:0;border-left:7px solid transparent;border-right:7px solid transparent;border-top:7px solid #e5d7b5;"></div>
+            <div style="font-size:32px;">🏔️</div>
+            <div class="kai" style="font-size:21px;font-weight:700;color:#3a2c16;margin-top:6px;">望庐山瀑布</div>
+            <div class="kai" style="font-size:12px;color:#9a8452;margin-top:3px;">李白 · 唐</div>
+            <div class="kai" style="font-size:11px;color:#b3a077;margin-top:5px;">日照香炉生紫烟</div>
+          </div>
+        </div>
+        <div style="margin-top:auto;text-align:center;" class="kai">
+          <span style="font-size:13px;color:#8a7448;letter-spacing:2px;">方向键选择 · OK 进入 · 返回键回上一页</span>
+        </div>
+      </div>
+      <div class="rod"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ② 朗读页 -->
+<div class="screen-label"><b>② 朗读页</b> — 诗词在手卷上,右侧线装书翻开讲解,正在读第2句第3个字「上」</div>
+<div class="screen">
+  <div class="desk"></div>
+  <div style="position:relative;height:100%;padding:22px 54px 16px;display:flex;gap:0;">
+    <!-- 左:诗词手卷 -->
+    <div style="flex:1.5;display:flex;flex-direction:column;min-width:0;">
+      <div style="display:flex;align-items:center;gap:12px;padding-left:30px;margin-bottom:8px;">
+        <span class="kai" style="font-size:26px;font-weight:700;color:#3a2c16;">静夜思</span>
+        <span class="kai" style="background:#f1e7c9;border:1px solid #d9c8a0;border-radius:12px;padding:3px 12px;font-size:12px;color:#6b5632;">〔唐〕李白</span>
+        <span class="kai" style="background:#f1e7c9;border:1px solid #d9c8a0;border-radius:12px;padding:3px 12px;font-size:11px;color:#8a7448;">启蒙篇 · 五言绝句</span>
+      </div>
+      <div class="scroll-wrap" style="flex:1;min-height:0;">
+        <div class="rod"></div>
+        <div class="paper" style="padding:12px 26px 10px;display:flex;flex-direction:column;">
+          <div style="flex:1;display:flex;flex-direction:column;justify-content:center;gap:7px;">
+            <div style="display:flex;gap:13px;opacity:.4;">
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">chuáng</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">床</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">qián</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">前</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">míng</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">明</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">yuè</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">月</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">guāng</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">光</div></div>
+              <span class="kai" style="font-size:27px;color:#8a7448;">,</span>
+            </div>
+            <div style="display:flex;gap:13px;background:rgba(176,58,46,.06);border-radius:5px;padding:4px 8px;margin:0 -8px;">
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">yí</div><div class="kai" style="font-size:31px;font-weight:700;color:#b03a2e;">疑</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">shì</div><div class="kai" style="font-size:31px;font-weight:700;color:#b03a2e;">是</div></div>
+              <div style="text-align:center;background:rgba(176,58,46,.16);border-radius:4px;padding:0 5px;"><div class="kai" style="font-size:10px;color:#8a7448;">shàng</div><div class="kai" style="font-size:33px;font-weight:700;color:#b03a2e;">上</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">shuāng</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">霜</div></div>
+              <span class="kai" style="font-size:27px;color:#8a7448;">。</span>
+            </div>
+            <div style="display:flex;gap:13px;opacity:.4;">
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">jǔ</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">举</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">tóu</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">头</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">wàng</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">望</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">míng</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">明</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">yuè</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">月</div></div>
+              <span class="kai" style="font-size:27px;color:#8a7448;">,</span>
+            </div>
+            <div style="display:flex;gap:13px;opacity:.4;">
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">dī</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">低</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">tóu</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">头</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">sī</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">思</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">gù</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">故</div></div>
+              <div style="text-align:center;"><div class="kai" style="font-size:10px;color:#8a7448;">xiāng</div><div class="kai" style="font-size:31px;font-weight:700;color:#3a2c16;">乡</div></div>
+              <span class="kai" style="font-size:27px;color:#8a7448;">。</span>
+            </div>
+          </div>
+          <div style="display:flex;align-items:center;gap:10px;margin:4px 0 8px;">
+            <span class="kai" style="font-size:11px;color:#8a7448;">0:09</span>
+            <div style="flex:1;height:6px;background:rgba(90,70,35,.25);border-radius:3px;position:relative;">
+              <div style="position:absolute;left:0;top:0;bottom:0;width:36%;background:linear-gradient(90deg,#4a3a20,#b03a2e);border-radius:3px;"></div>
+              <div style="position:absolute;left:36%;top:50%;width:12px;height:12px;background:#b03a2e;border-radius:50% 50% 50% 0;transform:translate(-4px,-50%) rotate(-45deg);"></div>
+            </div>
+            <span class="kai" style="font-size:11px;color:#8a7448;">0:26</span>
+          </div>
+          <div style="display:flex;gap:14px;align-items:center;margin-bottom:8px;">
+            <div style="width:42px;height:42px;background:linear-gradient(180deg,#8a5a2e,#5a3a1e);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#f1e7c9;font-size:17px;box-shadow:0 3px 8px rgba(0,0,0,.4);">⏮</div>
+            <div style="width:52px;height:52px;background:linear-gradient(180deg,#b03a2e,#7a2418);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#f7efd8;font-size:20px;box-shadow:0 4px 12px rgba(90,20,10,.5);">⏸</div>
+            <div style="width:42px;height:42px;background:linear-gradient(180deg,#8a5a2e,#5a3a1e);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#f1e7c9;font-size:17px;box-shadow:0 3px 8px rgba(0,0,0,.4);">⏭</div>
+            <div class="kai" style="margin-left:10px;background:#f1e7c9;border:1px solid #d9c8a0;border-radius:14px;padding:5px 14px;font-size:13px;color:#6b5632;">语速 · 慢</div>
+            <div class="kai" style="background:#f1e7c9;border:1px solid #d9c8a0;border-radius:14px;padding:5px 14px;font-size:13px;color:#6b5632;">跟读模式</div>
+          </div>
+        </div>
+        <div class="rod"></div>
+      </div>
+    </div>
+    <!-- 右:线装书讲解 -->
+    <div style="flex:1;display:flex;flex-direction:column;min-width:0;padding:0 0 8px 26px;">
+      <div style="display:flex;align-items:center;gap:10px;padding-left:14px;margin-bottom:8px;">
+        <span style="width:26px;height:26px;background:#b03a2e;color:#f7efd8;font-family:'Kaiti SC','STKaiti',serif;font-size:14px;display:flex;align-items:center;justify-content:center;border-radius:3px;">讲</span>
+        <span class="kai" style="font-size:20px;font-weight:700;color:#3a2c16;">讲解</span>
+      </div>
+      <div style="flex:1;display:flex;min-height:0;box-shadow:0 8px 22px rgba(0,0,0,.5);">
+        <div style="flex:1;background:linear-gradient(90deg,#e8dcba,#f2e8c9 8% 92%,#e8dcba);border-radius:4px 0 0 4px;padding:12px 14px;position:relative;overflow:hidden;">
+          <div style="position:absolute;inset:5px;border:1px solid rgba(140,110,60,.5);border-radius:2px;"></div>
+          <div style="position:relative;padding:6px 4px;">
+            <div class="kai" style="font-size:15px;font-weight:700;color:#b03a2e;">译文</div>
+            <div class="kai" style="font-size:12.5px;color:#4a3a1e;line-height:1.8;margin-top:5px;">明亮的月光洒在床前,好像地上铺了一层白霜。抬头望见天上的明月,低下头来,想起了远方的家乡。</div>
+            <div class="kai" style="font-size:15px;font-weight:700;color:#b03a2e;margin-top:10px;">背景故事</div>
+            <div class="kai" style="font-size:12px;color:#5a4a28;line-height:1.75;margin-top:4px;">李白年轻时离开家乡去远方。一个秋天的夜晚,他睡不着,看到窗外的月光,就想起自己的家乡,于是写下了这首诗。</div>
+          </div>
+        </div>
+        <div style="width:18px;background:linear-gradient(90deg,rgba(0,0,0,.25),transparent 40%,rgba(0,0,0,.18));position:relative;flex:none;">
+          <div style="position:absolute;top:8px;bottom:8px;left:50%;width:3px;background:#6b4423;border-radius:2px;box-shadow:inset 0 1px 2px rgba(255,255,255,.3);"></div>
+        </div>
+        <div style="flex:1;background:linear-gradient(270deg,#e8dcba,#f2e8c9 8% 92%,#e8dcba);border-radius:0 4px 4px 0;padding:12px 14px;position:relative;overflow:hidden;">
+          <div style="position:absolute;inset:5px;border:1px solid rgba(140,110,60,.5);border-radius:2px;"></div>
+          <div style="position:relative;padding:6px 4px;">
+            <div class="kai" style="font-size:15px;font-weight:700;color:#b03a2e;">重点字词</div>
+            <div class="kai" style="font-size:12.5px;color:#4a3a1e;line-height:1.9;margin-top:5px;">
+              静夜思:在安静的夜晚想到的事情。<br>
+              疑:好像。<br>
+              举头:抬头。
+            </div>
+            <div class="kai" style="font-size:15px;font-weight:700;color:#b03a2e;margin-top:10px;">小提示</div>
+            <div class="kai" style="font-size:12px;color:#5a4a28;line-height:1.75;margin-top:4px;">跟着老师一句一句读,读完一句按 OK 可以暂停,想一想再继续哦。</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

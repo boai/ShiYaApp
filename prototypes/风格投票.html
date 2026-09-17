@@ -1,0 +1,154 @@
+<h2>你喜欢哪种视觉风格?</h2>
+<p class="subtitle">三种方向各配了「首页 + 朗读页」两个 TV 界面原型(16:9),点击卡片可投票</p>
+
+<div class="cards" style="grid-template-columns:repeat(3,1fr)">
+
+  <!-- 风格 A:国风水墨 -->
+  <div class="card" data-choice="styleA" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="background:linear-gradient(135deg,#2c3e50,#34495e);padding:16px;border-radius:12px">
+        <div style="background:#f5efe0;border-radius:8px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.4)">
+          <div style="padding:10px 14px;border-bottom:1px solid #d8cfb8">
+            <span style="font-family:'Kaiti SC','STKaiti',serif;font-weight:bold;color:#3a2e1f;font-size:13px">🍃 诗芽</span>
+            <span style="float:right;color:#9a8b6f;font-size:9px">水墨国风</span>
+          </div>
+          <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:6px;padding:10px">
+            <div style="background:#fff;border:1px solid #d8cfb8;border-radius:4px;padding:8px 4px;text-align:center">
+              <div style="font-size:18px">🌙</div>
+              <div style="font-family:'Kaiti SC','STKaiti',serif;font-size:9px;color:#3a2e1f;margin-top:2px">静夜思</div>
+              <div style="font-size:7px;color:#9a8b6f">李白</div>
+            </div>
+            <div style="background:#fff;border:1px solid #d8cfb8;border-radius:4px;padding:8px 4px;text-align:center;opacity:.85">
+              <div style="font-size:18px">🦢</div>
+              <div style="font-family:'Kaiti SC','STKaiti',serif;font-size:9px;color:#3a2e1f;margin-top:2px">咏鹅</div>
+              <div style="font-size:7px;color:#9a8b6f">骆宾王</div>
+            </div>
+            <div style="background:#fff;border:1px solid #d8cfb8;border-radius:4px;padding:8px 4px;text-align:center;opacity:.7">
+              <div style="font-size:18px">🌾</div>
+              <div style="font-family:'Kaiti SC','STKaiti',serif;font-size:9px;color:#3a2e1f;margin-top:2px">悯农</div>
+              <div style="font-size:7px;color:#9a8b6f">李绅</div>
+            </div>
+            <div style="background:#fff;border:1px solid #d8cfb8;border-radius:4px;padding:8px 4px;text-align:center;opacity:.55">
+              <div style="font-size:18px">🏔</div>
+              <div style="font-family:'Kaiti SC','STKaiti',serif;font-size:9px;color:#3a2e1f;margin-top:2px">望庐山瀑布</div>
+              <div style="font-size:7px;color:#9a8b6f">李白</div>
+            </div>
+          </div>
+        </div>
+        <div style="background:#f5efe0;border-radius:8px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.4);margin-top:10px">
+          <div style="padding:12px;text-align:center;position:relative">
+            <div style="position:absolute;top:0;left:0;right:0;bottom:0;background:linear-gradient(to bottom,transparent 60%,rgba(180,160,120,.15));pointer-events:none"></div>
+            <div style="font-family:'Kaiti SC','STKaiti',serif;font-size:14px;color:#2c3e50">床前明月光,</div>
+            <div style="font-family:'Kaiti SC','STKaiti',serif;font-size:14px;color:#2c3e50;margin-top:4px;background:rgba(196,64,64,.12);border-radius:3px;display:inline-block;padding:0 4px">疑是地上霜。</div>
+            <div style="font-family:'Kaiti SC','STKaiti',serif;font-size:14px;color:#2c3e50;margin-top:4px">举头望明月,</div>
+            <div style="margin-top:8px;height:6px;background:#d8cfb8;border-radius:3px;width:80%;margin-left:auto;margin-right:auto;position:relative">
+              <div style="position:absolute;left:0;top:0;bottom:0;width:45%;background:#c44040;border-radius:3px"></div>
+            </div>
+            <div style="font-size:7px;color:#9a8b6f;margin-top:4px">▶ 正在朗读 · 第2句</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A · 国风水墨典雅</h3>
+      <p>宣纸底色、水墨意境、楷体大字,红章点缀。诗词韵味最浓,大人也喜欢;对幼童稍显素雅。</p>
+    </div>
+  </div>
+
+  <!-- 风格 B:儿童卡通 -->
+  <div class="card" data-choice="styleB" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="background:linear-gradient(135deg,#4facfe,#00f2fe);padding:16px;border-radius:12px">
+        <div style="background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.25)">
+          <div style="padding:10px 14px;background:linear-gradient(90deg,#ffd86f,#ffb347)">
+            <span style="font-weight:bold;color:#7a4b00;font-size:13px">🎈 诗芽</span>
+            <span style="float:right;color:#7a4b00;font-size:9px">🌈 童趣卡通</span>
+          </div>
+          <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:6px;padding:10px;background:#fef9f0">
+            <div style="background:#ffe8e8;border-radius:10px;padding:8px 4px;text-align:center">
+              <div style="font-size:18px">🌙</div>
+              <div style="font-weight:bold;font-size:10px;color:#c05a5a;margin-top:2px">静夜思</div>
+            </div>
+            <div style="background:#e8f6ff;border-radius:10px;padding:8px 4px;text-align:center">
+              <div style="font-size:18px">🦢</div>
+              <div style="font-weight:bold;font-size:10px;color:#4a90c0;margin-top:2px">咏鹅</div>
+            </div>
+            <div style="background:#eafbe8;border-radius:10px;padding:8px 4px;text-align:center">
+              <div style="font-size:18px">🌾</div>
+              <div style="font-weight:bold;font-size:10px;color:#5a9a50;margin-top:2px">悯农</div>
+            </div>
+            <div style="background:#fdf0ff;border-radius:10px;padding:8px 4px;text-align:center">
+              <div style="font-size:18px">🏔</div>
+              <div style="font-weight:bold;font-size:10px;color:#9a5ac0;margin-top:2px">望庐山瀑布</div>
+            </div>
+          </div>
+        </div>
+        <div style="background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.25);margin-top:10px">
+          <div style="padding:12px;text-align:center">
+            <div style="font-size:13px;color:#333;font-weight:bold">床前明月光,</div>
+            <div style="font-size:13px;color:#333;font-weight:bold;margin-top:4px;background:#ffe066;border-radius:8px;display:inline-block;padding:2px 6px">疑是地上霜。</div>
+            <div style="font-size:13px;color:#333;font-weight:bold;margin-top:4px">举头望明月,</div>
+            <div style="margin-top:8px;height:8px;background:#f0e6d0;border-radius:4px;width:80%;margin-left:auto;margin-right:auto;position:relative;overflow:hidden">
+              <div style="position:absolute;left:0;top:0;bottom:0;width:45%;background:linear-gradient(90deg,#ff9a9e,#fecfef);border-radius:4px"></div>
+            </div>
+            <div style="font-size:7px;color:#999;margin-top:4px">▶ 正在朗读 · 第2句</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B · 儿童卡通明快</h3>
+      <p>高饱和彩虹色、大圆角、卡通元素,最吸引 4-5 岁孩子;诗词的典雅意境弱一些。</p>
+    </div>
+  </div>
+
+  <!-- 风格 C:新中式融合 -->
+  <div class="card" data-choice="styleC" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="background:linear-gradient(135deg,#667eea,#764ba2);padding:16px;border-radius:12px">
+        <div style="background:#faf6ec;border-radius:14px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.35)">
+          <div style="padding:10px 14px;border-bottom:2px solid #e8ddc3">
+            <span style="font-weight:bold;color:#5b3a29;font-size:13px">📖 诗芽</span>
+            <span style="float:right;color:#a08b6a;font-size:9px">新中式</span>
+          </div>
+          <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:6px;padding:10px">
+            <div style="background:linear-gradient(135deg,#fdf3e0,#fbe7c8);border:1px solid #efd9ae;border-radius:10px;padding:8px 4px;text-align:center">
+              <div style="font-size:18px">🌙</div>
+              <div style="font-weight:bold;font-size:10px;color:#8a5a1e;margin-top:2px">静夜思</div>
+            </div>
+            <div style="background:linear-gradient(135deg,#e8f0fb,#dce7f7);border:1px solid #c4d4ec;border-radius:10px;padding:8px 4px;text-align:center">
+              <div style="font-size:18px">🦢</div>
+              <div style="font-weight:bold;font-size:10px;color:#3d5a80;margin-top:2px">咏鹅</div>
+            </div>
+            <div style="background:linear-gradient(135deg,#eaf5e5,#ddeed5);border:1px solid #c4ddba;border-radius:10px;padding:8px 4px;text-align:center">
+              <div style="font-size:18px">🌾</div>
+              <div style="font-weight:bold;font-size:10px;color:#4a7a3a;margin-top:2px">悯农</div>
+            </div>
+            <div style="background:linear-gradient(135deg,#f5ecf7,#ecdcf0);border:1px solid #dcc4e2;border-radius:10px;padding:8px 4px;text-align:center">
+              <div style="font-size:18px">🏔</div>
+              <div style="font-weight:bold;font-size:10px;color:#7a4a80;margin-top:2px">望庐山瀑布</div>
+            </div>
+          </div>
+        </div>
+        <div style="background:#faf6ec;border-radius:14px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,.35);margin-top:10px">
+          <div style="padding:12px;text-align:center">
+            <div style="font-size:13px;color:#4a3728;font-weight:600">床前明月光,</div>
+            <div style="font-size:13px;color:#4a3728;font-weight:600;margin-top:4px">
+              <span style="background:rgba(196,64,64,.15);padding:2px 6px;border-radius:6px;color:#a03030">疑是地上霜。</span>
+            </div>
+            <div style="font-size:13px;color:#4a3728;font-weight:600;margin-top:4px">举头望明月,</div>
+            <div style="margin-top:8px;height:8px;background:#e8ddc3;border-radius:4px;width:80%;margin-left:auto;margin-right:auto;position:relative;overflow:hidden">
+              <div style="position:absolute;left:0;top:0;bottom:0;width:45%;background:linear-gradient(90deg,#e8b04b,#d98a3d);border-radius:4px"></div>
+            </div>
+            <div style="font-size:7px;color:#a08b6a;margin-top:4px">▶ 正在朗读 · 第2句</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C · 新中式融合(推荐)</h3>
+      <p>暖米色宣纸底 + 明快圆角彩色卡片 + 大字,朗读时朱红高亮。既有诗词韵味又对孩子友好。</p>
+    </div>
+  </div>
+
+</div>
